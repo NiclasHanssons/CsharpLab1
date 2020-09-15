@@ -44,7 +44,8 @@ namespace CsharpLab1
                     }
                 }
             }
-
+            
+            Console.WriteLine();
             Console.WriteLine($"Total = {totalSumOfNumbers}");
             Console.ReadKey();
         }
