@@ -1,0 +1,13 @@
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.exe
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.deps.json
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.runtimeconfig.json
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.runtimeconfig.dev.json
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.dll
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\bin\Debug\netcoreapp3.1\CsharpLab1.pdb
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.csprojAssemblyReference.cache
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.AssemblyInfoInputs.cache
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.AssemblyInfo.cs
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.csproj.CoreCompileInputs.cache
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.dll
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.pdb
+C:\ITHS\C#\kursuppgifter\labUppgifter\progCSharp\lab1\CsharpLab1\obj\Debug\netcoreapp3.1\CsharpLab1.genruntimeconfig.cache
